@@ -1,8 +1,7 @@
 # STEVELAND ALL
 Здесь вы найдёте ВСЕ ссылки по проекту Steveland.
 ##### [TO DO лист](https://github.com/Kanorto/Steveland/blob/main/TODO.md)
-##### [Wiki 1 server](https://github.com/Kanorto/Steveland/blob/main/TODO.md)
-##### [Wiki 2 server](https://github.com/Kanorto/Steveland/blob/main/TODO.md)
+##### [Wiki](https://wiki.steveland.ru)
 ##### [Steveland News](https://news.steveland.ru)
 ##### [Site](https://steveland.ru)
 ##### [Shop](https://shop.steveland.ru)
